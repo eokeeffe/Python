@@ -4,10 +4,10 @@ import re
 
 from md5 import md5
 
-user_name = 'EJ0K'
-user_password = 'saffey1'
-api_key = '067991349b7ca99ac97dee9f1af60580'
-api_secret = '4001bfb74d27d249047005d5eab4befd'
+user_name = ''
+user_password = ''
+api_key = ''
+api_secret = ''
 top_tracks_file = open('top_tracks_wordle.txt', 'w')
 
 # to make the output more interesting for wordle viz.
